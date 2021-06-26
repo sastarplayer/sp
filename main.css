@@ -432,7 +432,12 @@ footer > p{
     border-bottom: 1.6px solid #808080;
 }
 
-
+@media only screen and (max-width: 600px) {
+	.breaking-news-section{	
+		padding: 10px;
+		flex-wrap: wrap;
+	}
+}
 
 @media(max-width: 460px){
     .hot-topic-content h2{
