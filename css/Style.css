@@ -174,7 +174,7 @@ p{
 
 /* --------------- Site title ---------------- */
 main .site-title{
-    background: url('../sp/Images/sportground.jpg');
+    background: url('/sp/Images/sportground.jpg');
     background-size: cover;
     height: 100%;
     width: 100%;
