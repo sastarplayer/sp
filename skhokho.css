@@ -1,0 +1,54 @@
+html {
+  box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+body {
+  padding: 0;
+  background: 333;
+  min-height: 100vh;
+  background: rgb(197, 205, 243);
+  background-size: cover;
+  align-items: center;
+  justify-content: center;
+}
+body h1{
+  text-align: center;
+  font-size: 35px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-weight: 700;
+  background-color: rgb(63, 62, 62);
+  color: rgb(255, 255, 255);
+  top: 2px;
+}
+body h3{
+  text-align: center;
+  font-size: 35px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-weight: 500;
+  background-color: rgb(63, 62, 62);
+  color: aliceblue;
+  margin-top: 1px;
+}
+
+.container {
+  max-width: 800px;
+  max-height: 100vh;
+  position: relative;
+  overflow: auto;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: black;
+  border: black;
+  border-width: 5px;
+}
+
+.fihlo {
+  width: 99.5%;
+}
+
