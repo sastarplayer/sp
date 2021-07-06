@@ -1,6 +1,6 @@
 var myvid = document.getElementById('myvideo');
 var myvids = [ 
-  "/sp/videoz/switz.mp4",
+  "/sp/videoz/clientele.mp4",
   "/sp/videoz/hqvideo.mp4",
   ];
 var activeVideo = 0;
