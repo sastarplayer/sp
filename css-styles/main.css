@@ -264,17 +264,18 @@ font-family: var(--heading);
     margin-top: 0%;
 }
 
-
 .hot-topic{
     overflow: hidden;
     position: relative;
     width: 100%;
     padding: 12px;
     height: 300px;
+    opacity: 0.85;
 }
 
 .hot-topic img{
     display: block;
+    
 }
 
 .hot-topic-content{
@@ -289,21 +290,33 @@ font-family: var(--heading);
 
 .hot-topic h2{
     padding: 10px 0;
-    font-size: 18px;
-    text-shadow: 0 0 2px #000;
+    font-size: 20px;
+    text-shadow: 0 0 4px rgb(0, 0, 0);
+    font-weight: 700;
+    font-family: serif;
+    color: white;
+    margin: auto;
 }
 
 .hot-topic h3{
     padding: 10px 0;
-    font-size: 16px;
-    text-shadow: 0 0 2px #000;
+    font-size: 20px;
+    text-shadow: 0 0 4px rgb(0, 0, 0);
+    font-weight: 550;
+    font-family: serif;
+    color: white;
+    margin: auto;
+
 }
 
 .hot-topic p{
     padding: 10px 0;
     font-size: 15px;
-    text-shadow: 0 0 2px #000;
-    padding: 12px 10px;
+    text-shadow: 0 0 4px rgb(0, 0, 0);
+    font-weight: 500;
+    font-family: serif;
+    color: white;
+    margin: auto;
 }
 
 .hot-topic-content a{
@@ -330,10 +343,8 @@ font-family: var(--heading);
 }
 .btn:hover{
     color: rgb(0, 0, 0);
-    background-color: rgb(197, 190, 190);
-    
+    background-color: rgb(109, 128, 235);
 }
-
 /** main ***/
 
 main a{
