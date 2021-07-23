@@ -443,7 +443,7 @@ main a:hover{
 }
 
 .recent-news img{
-    width: 80%;
+    width: 100%;
     height: auto;
     margin: 0;
 }
@@ -453,6 +453,9 @@ main a:hover{
     font-family: Georgia, 'Times New Roman', Times, serif;
     color: black;
     opacity: 1;
+    font-style: italic;
+    margin-left: 20px;
+    margin-right: 10px;
 }
 
     
