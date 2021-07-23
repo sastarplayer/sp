@@ -276,8 +276,8 @@ font-family: var(--heading);
 
 .hot-topic img{
     display: block;
-    width: 375px;
-    height: 300px;
+    width: 100%;
+    height: auto;
     
 }
 
@@ -291,6 +291,15 @@ font-family: var(--heading);
     color: #f3f3f3;
 }
 
+.hot-topic h3{
+    padding: 10px 0;
+    font-size: 20px;
+    text-shadow: 0 0 4px rgb(0, 0, 0);
+    font-weight: 700;
+    font-family: serif;
+    color: white;
+    margin: auto;
+}
 .hot-topic h2{
     padding: 10px 0;
     font-size: 20px;
