@@ -443,8 +443,8 @@ main a:hover{
 }
 
 .recent-news img{
-    width: 100%;
-    height: auto;
+    width: 220px;
+    height: 175px;
     margin: 0;
 }
 .recent-news h3{
@@ -454,8 +454,8 @@ main a:hover{
     color: black;
     opacity: 1;
     font-style: italic;
-    margin-left: 65px;
-    margin-bottom: 5px;
+   left: 80px;
+     
 }
 
     
