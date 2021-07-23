@@ -443,9 +443,9 @@ main a:hover{
 }
 
 .recent-news img{
-    width: 120px;
-    height: 120px;
-    margin: 10px;
+    width: 80%;
+    height: auto;
+    margin: 0;
 }
 .recent-news h3{
     font-size: 18px;
@@ -454,19 +454,7 @@ main a:hover{
     color: black;
     opacity: 1;
 }
-.recent-news p{
-    text-align: justify;
-    font-size: 14px;
-    font-weight: 520;
-    font-family: Arial, Helvetica, sans-serif;
-    color: black;
-    opacity: 1;
-}
-.recent-news a{
-    font-weight: 600;
-    color: blue;
-    opacity: 0.7;
-}
+
     
 .main-container-right > h2{
     padding: 15px 0 15px 30px;
