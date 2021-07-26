@@ -45,7 +45,7 @@ header{
     color: white;
 }
 
-.top-head{
+.top-head h1{
     display: flex;
     justify-content: space-between;
     align-items: center;
