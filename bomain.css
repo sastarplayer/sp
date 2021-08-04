@@ -61,16 +61,6 @@ header{
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;    
 }
 
-.top-head img{
-    float: left;
-    width: 90px;
-    height: 90px;
-    margin: auto;
-    display: flex;
-    margin: 0 30px;
-    display: flex;
-}
-
 .top-head .fas{
     font-size: 2rem;
     cursor: pointer;
@@ -80,6 +70,16 @@ header{
 
 .times-btn{
     display: none;
+}
+
+.git img{
+    float: left;
+    width: 100px;
+    height: 100px;
+    margin: auto;
+    display: flex;
+    margin: 0 10px;
+    display: flex;
 }
 
 .nav-bar{
