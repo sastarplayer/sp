@@ -1,4 +1,4 @@
-const countElement = document.getElementById('count');
+const countElement = document.getElementById('count1');
 
 update();
 
