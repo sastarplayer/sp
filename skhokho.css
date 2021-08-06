@@ -54,9 +54,15 @@ body h3{
 
 .memfu {
   display: flex;
+  margin: 0 10 10;
+}
+
+.memfu p{
   font: italic;
   font-weight: 500;
   font-size: 25px;
   color: rgb(0, 0, 0);
 }
+
+
 
