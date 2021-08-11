@@ -2,6 +2,7 @@ var myvid = document.getElementById('myvideo');
 var myvids = [ 
 "/sp/TABS/Trending/videoz/videopsg.mp4",
 "/sp/TABS/Trending/trendingImgs/messipsg.jpg",
+"/sp/TABS/Trending/videoz/city-takes-the-league.mp4",
   ];
 var activeVideo = 0;
 /TABS/Entertainment/videos/mamelodi-sundowns.mp4
